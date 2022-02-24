@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "posthtml-include": {
+      root: './src/assets/partials/',
+      encoding: 'utf-8'
+    }
+  }
+}
